@@ -1,0 +1,9 @@
+import NTPO.NTPO;
+public class Example {
+    public static void main(String args[]){
+    NTPO N=new NTPO();
+    N.Arrows(1000, 1);
+    N.Arrows(1000, 0);
+
+    }
+}
